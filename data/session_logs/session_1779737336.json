@@ -1,0 +1,945 @@
+{
+  "session_id": "session_1779737336",
+  "start_time": 1779737336.826536,
+  "end_time": 1779737364.9286475,
+  "context": "job interview",
+  "face_timeline": [
+    {
+      "t": 1.37,
+      "confidence": 72.9,
+      "nervousness": 5.9,
+      "trust": 73.5,
+      "eye_contact": 91.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 1.52,
+      "confidence": 72.6,
+      "nervousness": 6.1,
+      "trust": 73.2,
+      "eye_contact": 89.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 1.68,
+      "confidence": 72.0,
+      "nervousness": 6.5,
+      "trust": 73.7,
+      "eye_contact": 93.2,
+      "emotion": "sad"
+    },
+    {
+      "t": 2.45,
+      "confidence": 68.5,
+      "nervousness": 9.9,
+      "trust": 78.0,
+      "eye_contact": 93.4,
+      "emotion": "sad"
+    },
+    {
+      "t": 2.62,
+      "confidence": 65.4,
+      "nervousness": 13.0,
+      "trust": 81.6,
+      "eye_contact": 93.0,
+      "emotion": "sad"
+    },
+    {
+      "t": 2.78,
+      "confidence": 67.3,
+      "nervousness": 11.6,
+      "trust": 83.4,
+      "eye_contact": 92.4,
+      "emotion": "happy"
+    },
+    {
+      "t": 3.05,
+      "confidence": 76.3,
+      "nervousness": 5.2,
+      "trust": 89.4,
+      "eye_contact": 82.7,
+      "emotion": "happy"
+    },
+    {
+      "t": 3.23,
+      "confidence": 82.7,
+      "nervousness": 0.0,
+      "trust": 91.8,
+      "eye_contact": 76.9,
+      "emotion": "happy"
+    },
+    {
+      "t": 3.43,
+      "confidence": 83.2,
+      "nervousness": 0.0,
+      "trust": 89.9,
+      "eye_contact": 88.9,
+      "emotion": "happy"
+    },
+    {
+      "t": 3.68,
+      "confidence": 85.7,
+      "nervousness": 0.0,
+      "trust": 91.1,
+      "eye_contact": 91.3,
+      "emotion": "happy"
+    },
+    {
+      "t": 3.84,
+      "confidence": 87.2,
+      "nervousness": 0.0,
+      "trust": 92.8,
+      "eye_contact": 94.3,
+      "emotion": "happy"
+    },
+    {
+      "t": 4.01,
+      "confidence": 87.5,
+      "nervousness": 0.0,
+      "trust": 93.1,
+      "eye_contact": 86.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 4.29,
+      "confidence": 86.5,
+      "nervousness": 0.0,
+      "trust": 91.9,
+      "eye_contact": 82.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 4.43,
+      "confidence": 85.5,
+      "nervousness": 0.0,
+      "trust": 90.6,
+      "eye_contact": 83.7,
+      "emotion": "happy"
+    },
+    {
+      "t": 4.62,
+      "confidence": 85.8,
+      "nervousness": 0.0,
+      "trust": 90.9,
+      "eye_contact": 86.3,
+      "emotion": "happy"
+    },
+    {
+      "t": 4.88,
+      "confidence": 86.0,
+      "nervousness": 0.0,
+      "trust": 91.2,
+      "eye_contact": 87.2,
+      "emotion": "happy"
+    },
+    {
+      "t": 5.04,
+      "confidence": 86.0,
+      "nervousness": 0.0,
+      "trust": 91.2,
+      "eye_contact": 86.8,
+      "emotion": "happy"
+    },
+    {
+      "t": 5.21,
+      "confidence": 85.8,
+      "nervousness": 0.0,
+      "trust": 91.0,
+      "eye_contact": 78.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 5.49,
+      "confidence": 86.3,
+      "nervousness": 0.0,
+      "trust": 91.6,
+      "eye_contact": 91.1,
+      "emotion": "happy"
+    },
+    {
+      "t": 5.63,
+      "confidence": 86.8,
+      "nervousness": 0.0,
+      "trust": 92.1,
+      "eye_contact": 87.3,
+      "emotion": "happy"
+    },
+    {
+      "t": 5.82,
+      "confidence": 83.3,
+      "nervousness": 2.1,
+      "trust": 90.1,
+      "eye_contact": 93.0,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.09,
+      "confidence": 66.8,
+      "nervousness": 12.5,
+      "trust": 80.9,
+      "eye_contact": 95.4,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.24,
+      "confidence": 53.1,
+      "nervousness": 20.9,
+      "trust": 73.1,
+      "eye_contact": 87.7,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.41,
+      "confidence": 52.1,
+      "nervousness": 21.5,
+      "trust": 71.8,
+      "eye_contact": 83.3,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.61,
+      "confidence": 52.8,
+      "nervousness": 21.3,
+      "trust": 71.1,
+      "eye_contact": 89.0,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.75,
+      "confidence": 54.5,
+      "nervousness": 20.3,
+      "trust": 71.8,
+      "eye_contact": 91.7,
+      "emotion": "sad"
+    },
+    {
+      "t": 6.91,
+      "confidence": 56.3,
+      "nervousness": 18.6,
+      "trust": 72.7,
+      "eye_contact": 95.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 7.17,
+      "confidence": 63.8,
+      "nervousness": 11.9,
+      "trust": 74.4,
+      "eye_contact": 92.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 7.36,
+      "confidence": 70.0,
+      "nervousness": 6.3,
+      "trust": 76.1,
+      "eye_contact": 94.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 7.5,
+      "confidence": 68.4,
+      "nervousness": 8.5,
+      "trust": 75.5,
+      "eye_contact": 93.9,
+      "emotion": "sad"
+    },
+    {
+      "t": 7.7,
+      "confidence": 59.0,
+      "nervousness": 20.6,
+      "trust": 70.7,
+      "eye_contact": 96.5,
+      "emotion": "sad"
+    },
+    {
+      "t": 7.84,
+      "confidence": 51.5,
+      "nervousness": 30.3,
+      "trust": 66.9,
+      "eye_contact": 96.2,
+      "emotion": "sad"
+    },
+    {
+      "t": 8.03,
+      "confidence": 54.3,
+      "nervousness": 27.2,
+      "trust": 68.0,
+      "eye_contact": 90.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 8.29,
+      "confidence": 68.5,
+      "nervousness": 12.2,
+      "trust": 73.1,
+      "eye_contact": 80.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 8.45,
+      "confidence": 78.2,
+      "nervousness": 0.9,
+      "trust": 75.2,
+      "eye_contact": 71.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 8.62,
+      "confidence": 74.1,
+      "nervousness": 3.5,
+      "trust": 71.3,
+      "eye_contact": 77.9,
+      "emotion": "angry"
+    },
+    {
+      "t": 8.89,
+      "confidence": 64.5,
+      "nervousness": 10.9,
+      "trust": 64.6,
+      "eye_contact": 84.0,
+      "emotion": "angry"
+    },
+    {
+      "t": 9.04,
+      "confidence": 57.8,
+      "nervousness": 16.1,
+      "trust": 60.5,
+      "eye_contact": 87.3,
+      "emotion": "angry"
+    },
+    {
+      "t": 9.23,
+      "confidence": 60.1,
+      "nervousness": 14.5,
+      "trust": 62.1,
+      "eye_contact": 80.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 9.49,
+      "confidence": 70.7,
+      "nervousness": 6.7,
+      "trust": 68.8,
+      "eye_contact": 80.8,
+      "emotion": "neutral"
+    },
+    {
+      "t": 9.65,
+      "confidence": 80.9,
+      "nervousness": 0.0,
+      "trust": 76.4,
+      "eye_contact": 92.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 9.82,
+      "confidence": 80.6,
+      "nervousness": 0.9,
+      "trust": 76.9,
+      "eye_contact": 84.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.02,
+      "confidence": 73.8,
+      "nervousness": 5.6,
+      "trust": 73.2,
+      "eye_contact": 84.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.16,
+      "confidence": 69.4,
+      "nervousness": 8.8,
+      "trust": 71.4,
+      "eye_contact": 92.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.31,
+      "confidence": 70.1,
+      "nervousness": 8.2,
+      "trust": 72.0,
+      "eye_contact": 83.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.5,
+      "confidence": 71.5,
+      "nervousness": 6.7,
+      "trust": 72.1,
+      "eye_contact": 87.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.64,
+      "confidence": 72.8,
+      "nervousness": 5.5,
+      "trust": 72.3,
+      "eye_contact": 87.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.83,
+      "confidence": 73.3,
+      "nervousness": 5.2,
+      "trust": 72.4,
+      "eye_contact": 83.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 11.09,
+      "confidence": 77.4,
+      "nervousness": 2.4,
+      "trust": 74.7,
+      "eye_contact": 89.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 11.25,
+      "confidence": 80.9,
+      "nervousness": 0.0,
+      "trust": 76.8,
+      "eye_contact": 88.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 11.42,
+      "confidence": 80.4,
+      "nervousness": 0.0,
+      "trust": 76.3,
+      "eye_contact": 86.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 11.69,
+      "confidence": 80.1,
+      "nervousness": 0.0,
+      "trust": 75.9,
+      "eye_contact": 81.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 11.84,
+      "confidence": 79.2,
+      "nervousness": 0.4,
+      "trust": 74.8,
+      "eye_contact": 80.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 12.03,
+      "confidence": 78.2,
+      "nervousness": 0.7,
+      "trust": 73.8,
+      "eye_contact": 81.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 12.3,
+      "confidence": 78.1,
+      "nervousness": 0.8,
+      "trust": 73.8,
+      "eye_contact": 81.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 12.45,
+      "confidence": 78.0,
+      "nervousness": 1.0,
+      "trust": 73.7,
+      "eye_contact": 80.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 14.29,
+      "confidence": 77.4,
+      "nervousness": 2.2,
+      "trust": 73.9,
+      "eye_contact": 93.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 14.5,
+      "confidence": 71.1,
+      "nervousness": 10.2,
+      "trust": 72.0,
+      "eye_contact": 93.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 14.66,
+      "confidence": 65.6,
+      "nervousness": 16.6,
+      "trust": 70.1,
+      "eye_contact": 94.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 14.83,
+      "confidence": 66.2,
+      "nervousness": 15.5,
+      "trust": 70.4,
+      "eye_contact": 87.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 15.08,
+      "confidence": 69.2,
+      "nervousness": 11.0,
+      "trust": 72.1,
+      "eye_contact": 89.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 15.25,
+      "confidence": 71.2,
+      "nervousness": 7.9,
+      "trust": 73.1,
+      "eye_contact": 86.0,
+      "emotion": "neutral"
+    },
+    {
+      "t": 15.44,
+      "confidence": 71.0,
+      "nervousness": 8.2,
+      "trust": 72.8,
+      "eye_contact": 90.0,
+      "emotion": "neutral"
+    },
+    {
+      "t": 15.69,
+      "confidence": 72.7,
+      "nervousness": 6.6,
+      "trust": 73.5,
+      "eye_contact": 92.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 15.86,
+      "confidence": 74.3,
+      "nervousness": 5.1,
+      "trust": 74.2,
+      "eye_contact": 92.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 16.03,
+      "confidence": 74.0,
+      "nervousness": 5.1,
+      "trust": 73.6,
+      "eye_contact": 81.0,
+      "emotion": "neutral"
+    },
+    {
+      "t": 16.26,
+      "confidence": 75.8,
+      "nervousness": 3.0,
+      "trust": 74.4,
+      "eye_contact": 91.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 16.45,
+      "confidence": 77.8,
+      "nervousness": 1.0,
+      "trust": 75.9,
+      "eye_contact": 92.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 16.61,
+      "confidence": 78.0,
+      "nervousness": 0.9,
+      "trust": 76.2,
+      "eye_contact": 92.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 16.89,
+      "confidence": 78.7,
+      "nervousness": 0.4,
+      "trust": 76.5,
+      "eye_contact": 95.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 17.04,
+      "confidence": 79.3,
+      "nervousness": 0.1,
+      "trust": 76.9,
+      "eye_contact": 95.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 17.23,
+      "confidence": 78.1,
+      "nervousness": 2.2,
+      "trust": 76.6,
+      "eye_contact": 92.6,
+      "emotion": "fear"
+    },
+    {
+      "t": 17.46,
+      "confidence": 70.4,
+      "nervousness": 13.2,
+      "trust": 74.0,
+      "eye_contact": 82.2,
+      "emotion": "fear"
+    },
+    {
+      "t": 17.65,
+      "confidence": 64.5,
+      "nervousness": 21.5,
+      "trust": 71.9,
+      "eye_contact": 78.2,
+      "emotion": "fear"
+    },
+    {
+      "t": 17.81,
+      "confidence": 65.7,
+      "nervousness": 19.2,
+      "trust": 71.9,
+      "eye_contact": 80.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.11,
+      "confidence": 70.7,
+      "nervousness": 11.5,
+      "trust": 73.1,
+      "eye_contact": 90.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.24,
+      "confidence": 74.7,
+      "nervousness": 5.4,
+      "trust": 74.4,
+      "eye_contact": 91.8,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.43,
+      "confidence": 74.5,
+      "nervousness": 5.6,
+      "trust": 74.2,
+      "eye_contact": 92.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.66,
+      "confidence": 74.4,
+      "nervousness": 5.9,
+      "trust": 74.0,
+      "eye_contact": 89.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.85,
+      "confidence": 74.2,
+      "nervousness": 6.2,
+      "trust": 73.8,
+      "eye_contact": 90.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 18.99,
+      "confidence": 74.4,
+      "nervousness": 5.9,
+      "trust": 74.0,
+      "eye_contact": 91.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 19.31,
+      "confidence": 75.7,
+      "nervousness": 4.0,
+      "trust": 75.0,
+      "eye_contact": 93.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 19.44,
+      "confidence": 76.6,
+      "nervousness": 2.6,
+      "trust": 75.5,
+      "eye_contact": 91.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 19.63,
+      "confidence": 76.1,
+      "nervousness": 3.2,
+      "trust": 75.0,
+      "eye_contact": 83.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 19.86,
+      "confidence": 75.7,
+      "nervousness": 3.3,
+      "trust": 73.9,
+      "eye_contact": 83.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 20.07,
+      "confidence": 75.7,
+      "nervousness": 3.2,
+      "trust": 73.4,
+      "eye_contact": 83.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 20.2,
+      "confidence": 75.2,
+      "nervousness": 3.5,
+      "trust": 72.5,
+      "eye_contact": 69.8,
+      "emotion": "neutral"
+    },
+    {
+      "t": 20.49,
+      "confidence": 75.2,
+      "nervousness": 3.2,
+      "trust": 71.3,
+      "eye_contact": 71.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 20.64,
+      "confidence": 76.0,
+      "nervousness": 2.5,
+      "trust": 71.4,
+      "eye_contact": 72.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 20.85,
+      "confidence": 76.4,
+      "nervousness": 2.2,
+      "trust": 72.0,
+      "eye_contact": 76.5,
+      "emotion": "neutral"
+    },
+    {
+      "t": 21.08,
+      "confidence": 76.5,
+      "nervousness": 2.3,
+      "trust": 72.3,
+      "eye_contact": 74.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 21.27,
+      "confidence": 77.1,
+      "nervousness": 1.9,
+      "trust": 73.2,
+      "eye_contact": 89.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 21.39,
+      "confidence": 79.1,
+      "nervousness": 0.8,
+      "trust": 75.4,
+      "eye_contact": 90.9,
+      "emotion": "neutral"
+    },
+    {
+      "t": 21.69,
+      "confidence": 80.4,
+      "nervousness": 0.0,
+      "trust": 76.8,
+      "eye_contact": 89.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 21.84,
+      "confidence": 80.5,
+      "nervousness": 0.0,
+      "trust": 76.7,
+      "eye_contact": 89.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.0,
+      "confidence": 79.4,
+      "nervousness": 1.7,
+      "trust": 76.3,
+      "eye_contact": 91.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.26,
+      "confidence": 71.9,
+      "nervousness": 10.8,
+      "trust": 72.6,
+      "eye_contact": 91.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.45,
+      "confidence": 65.4,
+      "nervousness": 18.3,
+      "trust": 69.0,
+      "eye_contact": 89.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.59,
+      "confidence": 65.9,
+      "nervousness": 17.6,
+      "trust": 69.0,
+      "eye_contact": 89.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.87,
+      "confidence": 70.4,
+      "nervousness": 11.7,
+      "trust": 71.6,
+      "eye_contact": 91.0,
+      "emotion": "neutral"
+    },
+    {
+      "t": 23.04,
+      "confidence": 73.5,
+      "nervousness": 7.4,
+      "trust": 73.1,
+      "eye_contact": 86.4,
+      "emotion": "neutral"
+    },
+    {
+      "t": 23.2,
+      "confidence": 72.6,
+      "nervousness": 8.4,
+      "trust": 72.4,
+      "eye_contact": 92.8,
+      "emotion": "neutral"
+    },
+    {
+      "t": 23.46,
+      "confidence": 71.5,
+      "nervousness": 9.7,
+      "trust": 72.7,
+      "eye_contact": 95.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 23.65,
+      "confidence": 70.8,
+      "nervousness": 10.5,
+      "trust": 73.0,
+      "eye_contact": 97.0,
+      "emotion": "neutral"
+    },
+    {
+      "t": 23.79,
+      "confidence": 72.7,
+      "nervousness": 9.4,
+      "trust": 75.2,
+      "eye_contact": 97.4,
+      "emotion": "happy"
+    },
+    {
+      "t": 23.99,
+      "confidence": 81.2,
+      "nervousness": 4.2,
+      "trust": 85.5,
+      "eye_contact": 95.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 24.13,
+      "confidence": 88.2,
+      "nervousness": 0.0,
+      "trust": 94.0,
+      "eye_contact": 98.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 24.32,
+      "confidence": 84.8,
+      "nervousness": 2.9,
+      "trust": 91.0,
+      "eye_contact": 92.8,
+      "emotion": "fear"
+    },
+    {
+      "t": 24.57,
+      "confidence": 67.5,
+      "nervousness": 17.5,
+      "trust": 75.7,
+      "eye_contact": 91.9,
+      "emotion": "fear"
+    },
+    {
+      "t": 24.74,
+      "confidence": 54.0,
+      "nervousness": 28.9,
+      "trust": 63.8,
+      "eye_contact": 94.7,
+      "emotion": "fear"
+    },
+    {
+      "t": 24.91,
+      "confidence": 56.3,
+      "nervousness": 26.2,
+      "trust": 65.0,
+      "eye_contact": 89.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 25.18,
+      "confidence": 67.7,
+      "nervousness": 13.1,
+      "trust": 71.0,
+      "eye_contact": 96.2,
+      "emotion": "neutral"
+    },
+    {
+      "t": 25.33,
+      "confidence": 77.0,
+      "nervousness": 2.5,
+      "trust": 75.9,
+      "eye_contact": 90.1,
+      "emotion": "neutral"
+    },
+    {
+      "t": 25.52,
+      "confidence": 77.1,
+      "nervousness": 2.4,
+      "trust": 76.0,
+      "eye_contact": 94.7,
+      "emotion": "neutral"
+    },
+    {
+      "t": 25.77,
+      "confidence": 77.9,
+      "nervousness": 1.4,
+      "trust": 76.5,
+      "eye_contact": 93.3,
+      "emotion": "neutral"
+    }
+  ],
+  "transcript_segments": [
+    {
+      "t": 3.85,
+      "text": "because this"
+    },
+    {
+      "t": 8.13,
+      "text": "press karna to stop"
+    },
+    {
+      "t": 14.89,
+      "text": "distress karna to stop hi how are you"
+    }
+  ],
+  "contradiction_events": [],
+  "llm_report": "**Coaching Report: Interview Preparation and Communication**\n\n**Overall Assessment:**\nThis candidate demonstrated a neutral tone throughout the interview, indicating a lack of emotional expression. While they maintained a high level of eye contact, their verbal communication was marred by a sudden shift in language, suggesting a momentary lapse in confidence. To excel in high-stakes interviews, they must work on conveying confidence and composure.\n\n**Top 3 Strengths:**\n\n1. **Maintaining Eye Contact**: The candidate achieved an impressive 88.5% average eye contact, indicating a strong ability to engage with the interviewer and convey interest.\n2. **Neutral Tone**: Their neutral tone helped to maintain a professional demeanor, which is essential for building trust with the interviewer.\n3. **Clear Enunciation (mostly)**: The candidate's language was mostly clear, with a slight exception of a momentary language lapse (see \"Area to Improve\" below).\n\n**Top 3 Areas to Improve:**\n\n1. **Verbal Flows and Transitions**: The candidate's language shifted abruptly from \"because this press karna to stop distress karna to stop hi how are you.\" To improve, they should practice smooth verbal transitions between thoughts, pausing briefly before introducing new ideas.\n2. **Confidence and Composure**: The candidate's sudden language shift suggests a momentary lapse in confidence. To build confidence, they should practice relaxation techniques, such as deep breathing, and focus on positive self-talk before the interview.\n3. **Practice with Varying Scenarios**: To prepare for unexpected questions or scenarios, the candidate should practice responding to different types of questions, including those that might trigger a momentary lapse in confidence.\n\n**Key Contradiction Analysis:**\nThere were no notable verbal-facial contradictions in this session, which is a positive sign. However, the candidate's sudden language shift and momentary loss of confidence suggest that they may be more prone to contradictions in the future.\n\n**Drill for Next Session:**\n\n**Exercise:** \"Verbal Transition Drill\"\n\n* Set a timer for 3 minutes.\n* Speak in a natural, conversational tone.\n* Introduce a new thought or idea every 10-15 seconds.\n* Practice pausing briefly before introducing each new idea.\n* Repeat the exercise 3-5 times, focusing on smooth verbal transitions.\n\nBy practicing this exercise, the candidate can develop the ability to communicate more confidently and smoothly, even in high-pressure situations.",
+  "duration": 28.10211157798767
+}

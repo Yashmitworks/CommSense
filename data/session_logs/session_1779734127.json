@@ -1,0 +1,148 @@
+{
+  "session_id": "session_1779734127",
+  "start_time": 1779734127.2876673,
+  "end_time": 1779734224.222308,
+  "context": "job interview",
+  "face_timeline": [
+    {
+      "t": 5.53,
+      "confidence": 69.0,
+      "nervousness": 10.0,
+      "trust": 70.8,
+      "eye_contact": 91.6,
+      "emotion": "neutral"
+    },
+    {
+      "t": 10.61,
+      "confidence": 68.3,
+      "nervousness": 10.7,
+      "trust": 70.2,
+      "eye_contact": 90.8,
+      "emotion": "neutral"
+    },
+    {
+      "t": 22.17,
+      "confidence": 67.9,
+      "nervousness": 11.2,
+      "trust": 70.5,
+      "eye_contact": 92.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 26.78,
+      "confidence": 68.5,
+      "nervousness": 10.3,
+      "trust": 71.1,
+      "eye_contact": 87.3,
+      "emotion": "neutral"
+    },
+    {
+      "t": 33.11,
+      "confidence": 61.4,
+      "nervousness": 20.7,
+      "trust": 66.6,
+      "eye_contact": 94.0,
+      "emotion": "fear"
+    },
+    {
+      "t": 37.32,
+      "confidence": 52.8,
+      "nervousness": 35.0,
+      "trust": 62.1,
+      "eye_contact": 82.8,
+      "emotion": "fear"
+    },
+    {
+      "t": 42.52,
+      "confidence": 55.8,
+      "nervousness": 32.7,
+      "trust": 65.9,
+      "eye_contact": 92.9,
+      "emotion": "happy"
+    },
+    {
+      "t": 47.55,
+      "confidence": 0,
+      "nervousness": 0,
+      "trust": 0,
+      "eye_contact": 0,
+      "emotion": "unknown"
+    },
+    {
+      "t": 52.92,
+      "confidence": 80.7,
+      "nervousness": 0.3,
+      "trust": 87.8,
+      "eye_contact": 78.7,
+      "emotion": "happy"
+    },
+    {
+      "t": 58.11,
+      "confidence": 81.5,
+      "nervousness": 0.1,
+      "trust": 88.2,
+      "eye_contact": 92.0,
+      "emotion": "happy"
+    },
+    {
+      "t": 63.53,
+      "confidence": 82.2,
+      "nervousness": 0.0,
+      "trust": 87.9,
+      "eye_contact": 88.7,
+      "emotion": "happy"
+    },
+    {
+      "t": 67.6,
+      "confidence": 81.8,
+      "nervousness": 0.0,
+      "trust": 86.1,
+      "eye_contact": 92.3,
+      "emotion": "happy"
+    },
+    {
+      "t": 73.23,
+      "confidence": 81.2,
+      "nervousness": 0.0,
+      "trust": 85.8,
+      "eye_contact": 83.8,
+      "emotion": "happy"
+    },
+    {
+      "t": 78.81,
+      "confidence": 79.6,
+      "nervousness": 1.1,
+      "trust": 85.0,
+      "eye_contact": 29.9,
+      "emotion": "happy"
+    },
+    {
+      "t": 84.51,
+      "confidence": 74.8,
+      "nervousness": 4.2,
+      "trust": 81.1,
+      "eye_contact": 83.2,
+      "emotion": "happy"
+    },
+    {
+      "t": 90.2,
+      "confidence": 71.2,
+      "nervousness": 6.9,
+      "trust": 76.8,
+      "eye_contact": 75.5,
+      "emotion": "sad"
+    },
+    {
+      "t": 95.8,
+      "confidence": 62.1,
+      "nervousness": 13.6,
+      "trust": 71.0,
+      "eye_contact": 89.9,
+      "emotion": "sad"
+    }
+  ],
+  "transcript_segments": [],
+  "contradiction_events": [],
+  "llm_report": "Maintain steady eye contact and speak at a measured pace to project confidence.",
+  "duration": 96.93464064598083
+}
